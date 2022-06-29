@@ -11,9 +11,18 @@
 
 <body>
     <h1>Términos y Condiciones</h1>
-    <div><p>Cuando se contrata un servicio de telefonía o de televisión de paga es la empresa contratada quien impone los montos a pagar de acuerdo al plan que haya escogido el cliente o contratante, no obstante, la situación cambia en un contrato de trabajo allí es la empresa (quien funge como contratante) es quien establece los parámetros al empleado (quien es el contratado).  </p></div>
-    <div><p>Cuando se contrata un servicio de telefonía o de televisión de paga es la empresa contratada quien impone los montos a pagar de acuerdo al plan que haya escogido el cliente o contratante, no obstante, la situación cambia en un contrato de trabajo allí es la empresa (quien funge como contratante) es quien establece los parámetros al empleado (quien es el contratado).  </p></div>
-    <div><p>Cuando se contrata un servicio de telefonía o de televisión de paga es la empresa contratada quien impone los montos a pagar de acuerdo al plan que haya escogido el cliente o contratante, no obstante, la situación cambia en un contrato de trabajo allí es la empresa (quien funge como contratante) es quien establece los parámetros al empleado (quien es el contratado).  </p></div>
+    <div>
+        <p>Cuando se contrata un servicio de telefonía o de televisión de paga es la empresa contratada quien impone los montos a pagar de acuerdo al plan que haya escogido el cliente o contratante, no obstante, la situación cambia en un contrato de trabajo allí es la empresa (quien funge como contratante) es quien establece los parámetros al empleado (quien es el contratado). </p>
+    </div>
+    <div>
+        <p>Cuando se contrata un servicio de telefonía o de televisión de paga es la empresa contratada quien impone los montos a pagar de acuerdo al plan que haya escogido el cliente o contratante, no obstante, la situación cambia en un contrato de trabajo allí es la empresa (quien funge como contratante) es quien establece los parámetros al empleado (quien es el contratado). </p>
+    </div>
+    <div>
+        <p>Cuando se contrata un servicio de telefonía o de televisión de paga es la empresa contratada quien impone los montos a pagar de acuerdo al plan que haya escogido el cliente o contratante, no obstante, la situación cambia en un contrato de trabajo allí es la empresa (quien funge como contratante) es quien establece los parámetros al empleado (quien es el contratado). </p>
+    </div>
+    <div><a href="login.php">Login</a></div>
+    <div><a href="recuperar.php">Olvidaste tu contraseña?</a></div>
+    <div><a href="registro.php">Todavia no estas registrado?</a></div>
 </body>
 
 </html>
