@@ -11,9 +11,20 @@
 
 <body>
     <h1>Registro</h1>
-    <div><input type="text"></div>
-    <div><input type="text"></div>
-    <div><input type="text"></div>
+    <div>
+        <label for="">Usuario</label>
+        <input class="form-control" type="text">
+    </div>
+    <div>
+        <label for="">Clave</label>
+        <input class="form-control" type="text">
+    </div>
+    <div>
+        <label for="">Repetir Clave</label>
+        <input class="form-control" type="text">
+    </div>
+
+    <div><input class="btn btn-success" type="submit"></div>
 </body>
 
 </html>
