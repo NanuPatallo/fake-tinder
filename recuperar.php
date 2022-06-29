@@ -14,11 +14,12 @@
 <h1>Recuperar contraseña</h1>
 
 <div>
-    <input type="text">
+    <label for="">INGRESA TU MAIL</label>
+    <input class="form-control" type="text">
 </div>
 
 <div>
-    <input type="text">
+    <input class="btn btn-success" type="submit">
 </div>
 
 </body>
