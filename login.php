@@ -9,8 +9,8 @@
 </head>
 <body>
     <h1>Login</h1>
-    <div><input type="text"></div>
-    <div><input type="text"></div>
-    <div><input type="text"></div>
+    <div><input class="form-control" type="text"></div>
+    <div><input class="form-control" type="text"></div>
+    <div><input class="form-control" type="text"></div>
 </body>
 </html>
