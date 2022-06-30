@@ -19,7 +19,7 @@
         <label for="">Clave</label>
         <input class="form-control" type="text">
     </div>
-    <div><input class="btn btn-success" type="submit"></div>
+    <div><input class="btn btn-success" type="submit" value="INGRESAR"></div>
 </body>
 
 </html>
