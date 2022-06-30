@@ -10,7 +10,14 @@
 </head>
 
 <body>
-
+    <h1>
+        Fake-Tinder
+    </h1>
+    <div>
+        <a href="login.php">Login</a>
+    </div>
+    <div> <a href="terminos.php">Lee nuestros terminos y condiciones</a> 
+</div>
 </body>
 
 </html>
