@@ -19,7 +19,7 @@
 </div>
 
 <div>
-    <input class="btn btn-success" type="submit">
+    <input class="btn btn-success" type="submit" value="RECUPERAR">
 </div>
 
 </body>
