@@ -24,7 +24,7 @@
         <input class="form-control" type="text">
     </div>
 
-    <div><input class="btn btn-success" type="submit"></div>
+    <div><input class="btn btn-success" type="submit" value="Registrar"></div>
 </body>
 
 </html>
